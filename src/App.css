@@ -1,0 +1,47 @@
+.title {
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+.search-box {
+  margin: 20px 0 20px 10px;
+}
+.contact-list {
+  margin: 10px 0 0 100px;
+}
+.contact-list-under {
+  margin-top: 50px;
+}
+.del-button {
+  cursor: pointer;
+  border:none;
+  width: 75px;
+  height: 35px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #3db8ff;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.del-button:hover {
+  color: #000;
+  background-color: #0ca4fc;
+  transition: 0.6s;
+  
+}
+.second-col {
+  position: relative;
+}
+.search-form {
+  width: 140rem
+}
+.total {
+  text-align: center;
+  margin: 25px 0 25px 0;
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #3db8ff;
+  border: 1px solid #2ab1ff;
+  border-radius: 5px;
+  color: #fff;
+}
